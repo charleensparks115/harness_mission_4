@@ -3,3 +3,6 @@ echo "This is being run from a Harness pipeline"
 
 echo "Hello"
 echo "The sun is shining"
+
+echo "It is Tuesday"
+echo "charleen"
